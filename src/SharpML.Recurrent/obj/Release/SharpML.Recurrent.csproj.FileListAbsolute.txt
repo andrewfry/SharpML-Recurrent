@@ -1,0 +1,5 @@
+C:\Users\afry\Documents\Visual Studio 2013\Projects\SharpML\SharpML.Recurrent\bin\Release\SharpML.Recurrent.dll
+C:\Users\afry\Documents\Visual Studio 2013\Projects\SharpML\SharpML.Recurrent\bin\Release\SharpML.Recurrent.pdb
+C:\Users\afry\Documents\Visual Studio 2013\Projects\SharpML\SharpML.Recurrent\obj\Release\SharpML.Recurrent.csprojResolveAssemblyReference.cache
+C:\Users\afry\Documents\Visual Studio 2013\Projects\SharpML\SharpML.Recurrent\obj\Release\SharpML.Recurrent.dll
+C:\Users\afry\Documents\Visual Studio 2013\Projects\SharpML\SharpML.Recurrent\obj\Release\SharpML.Recurrent.pdb

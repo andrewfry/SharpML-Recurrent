@@ -1,0 +1,17 @@
+C:\Users\afry\Documents\Visual Studio 2013\Projects\SharpML\SharpML.Recurrent\bin\Debug\SharpML.Recurrent.dll
+C:\Users\afry\Documents\Visual Studio 2013\Projects\SharpML\SharpML.Recurrent\bin\Debug\SharpML.Recurrent.pdb
+C:\Users\afry\Documents\Visual Studio 2013\Projects\SharpML\SharpML.Recurrent\obj\Debug\SharpML.Recurrent.csprojResolveAssemblyReference.cache
+C:\Users\afry\Documents\Visual Studio 2013\Projects\SharpML\SharpML.Recurrent\obj\Debug\SharpML.Recurrent.dll
+C:\Users\afry\Documents\Visual Studio 2013\Projects\SharpML\SharpML.Recurrent\obj\Debug\SharpML.Recurrent.pdb
+C:\Users\afry\Documents\Visual Studio 2013\Projects\SharpML\SharpML.Recurrent\bin\Debug\SharpML.Helpers.dll
+C:\Users\afry\Documents\Visual Studio 2013\Projects\SharpML\SharpML.Recurrent\bin\Debug\SharpML.Helpers.pdb
+C:\Users\afry\Documents\GitHub\SharpML.Recurrent\SharpML.Recurrent\bin\Debug\SharpML.Recurrent.dll
+C:\Users\afry\Documents\GitHub\SharpML.Recurrent\SharpML.Recurrent\bin\Debug\SharpML.Recurrent.pdb
+C:\Users\afry\Documents\GitHub\SharpML.Recurrent\SharpML.Recurrent\obj\Debug\SharpML.Recurrent.csprojResolveAssemblyReference.cache
+C:\Users\afry\Documents\GitHub\SharpML.Recurrent\SharpML.Recurrent\obj\Debug\SharpML.Recurrent.dll
+C:\Users\afry\Documents\GitHub\SharpML.Recurrent\SharpML.Recurrent\obj\Debug\SharpML.Recurrent.pdb
+C:\Users\afry\Documents\GitHub\SharpML.Recurrent\SharpML-Recurrent\src\SharpML.Recurrent\bin\Debug\SharpML.Recurrent.dll
+C:\Users\afry\Documents\GitHub\SharpML.Recurrent\SharpML-Recurrent\src\SharpML.Recurrent\bin\Debug\SharpML.Recurrent.pdb
+C:\Users\afry\Documents\GitHub\SharpML.Recurrent\SharpML-Recurrent\src\SharpML.Recurrent\obj\Debug\SharpML.Recurrent.csprojResolveAssemblyReference.cache
+C:\Users\afry\Documents\GitHub\SharpML.Recurrent\SharpML-Recurrent\src\SharpML.Recurrent\obj\Debug\SharpML.Recurrent.dll
+C:\Users\afry\Documents\GitHub\SharpML.Recurrent\SharpML-Recurrent\src\SharpML.Recurrent\obj\Debug\SharpML.Recurrent.pdb

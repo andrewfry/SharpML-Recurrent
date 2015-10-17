@@ -3,10 +3,10 @@ A C# implemetation of Andrej Karpathy's RecurrentJs and Thomas Lahore's Recurren
 
 Features:
 
-Deep Recurrent Neural Networks
-Long Short-Term Memory Networks
-Gated Recurrent Unit Neural Networks
-Backpropagation Through Time handled via Automatic Differentiation.
+- Deep Recurrent Neural Networks
+- Long Short-Term Memory Networks
+- Gated Recurrent Unit Neural Networks
+- Backpropagation Through Time handled via Automatic Differentiation.
 
 
 #License

@@ -11,3 +11,6 @@ Features:
 
 #License
 MIT
+
+
+***WARNING: This is for educational purposes only. I suggest using these libraries instead: https://github.com/migueldeicaza/TensorFlowSharp and https://github.com/Microsoft/CNTK

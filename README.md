@@ -13,4 +13,4 @@ Features:
 MIT
 
 
-***WARNING: This is for educational purposes only. I suggest using these libraries instead: https://github.com/migueldeicaza/TensorFlowSharp and https://github.com/Microsoft/CNTK
+***WARNING: This is for educational purposes only. I suggest using these libraries instead: [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp), [TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) and [CNTK](https://github.com/Microsoft/CNTK)
